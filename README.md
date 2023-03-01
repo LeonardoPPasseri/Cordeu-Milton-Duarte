@@ -1,4 +1,4 @@
 # cordeu-Milton-Duarte
- Site feito como desafio pelo Curso em Video
+ Desafio proposto do canal CursoEmVideo
 
 https://leonardoppasseri.github.io/Cordeu-Milton-Duarte/
